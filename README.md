@@ -100,9 +100,8 @@ This is an example of how to list things you need to use the software and how to
 * Ensure you have setup wp-local or XAMPP local server
 
 ### Installation
-
-1.Run the tornotron automation scripts to setup local dev environment
-2. Clone this repository using the command: `https://github.com/tornotron/prepacademy`
+1. Run the tornotron automation scripts to setup local dev environment
+2. Clone this repository using the command: 
     ```sh
     git clone git@github.com:tornotron/prepacademy.git
     ```

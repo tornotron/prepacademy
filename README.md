@@ -16,14 +16,14 @@
   <div align="center">
     Learning Management System
     <br />
-    <a href="https://github.com/tornotron/echno_attendance/docs/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/tornotron/prepacademy/docs/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://prepacademy.in">View Demo</a>
     ·
-    <a href="https://github.com/tornotron/echno_attendance/issues">Report Bug</a>
+    <a href="https://github.com/tornotron/prepacademy/issues">Report Bug</a>
     ·
-    <a href="https://github.com/tornotron/echno_attendance/issues">Request Feature</a>
+    <a href="https://github.com/tornotron/prepacademy/issues">Request Feature</a>
   </div>
 </div>
 
@@ -56,9 +56,7 @@
 ## About The Project
 
 <div align="center">
-  <img alt="Product Image 1" width="20%" height="20%" src="assets/images/1.png">
-  <img alt="Product Image 1" width="20%" height="20%" src="assets/images/2.png">
-  <img alt="Product Image 1" width="20%" height="20%" src="assets/images/3.png">
+  <img alt="Product Image 1" width="50%" height="50%" src="Prepacademy.png">
  
   <!-- Add vertical space -->
   <br>  
@@ -80,7 +78,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,webpack,figma,vscode,neovim" />
+    <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,webpack,githubactions,figma,vscode,neovim" />
   </a>
 </p>
 
@@ -93,33 +91,22 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-The App can be installed on any Android or iOS device. It can also be run on an emulator.
-The following instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
+The app has to be deployed with a new WordPress installation.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 
-* Ensure you have Flutter and Dart installed on your system.
-* If not, follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install) for your operating system.
-* Ensure Github SSH is set up on your system.
-* If not, follow the [GitHub SSH setup guide](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh) for your operating system.
+* Ensure you have setup wp-local or XAMPP local server
 
 ### Installation
 
-1. Clone this repository using the command: `https://github.com/tornotron/echno_attendance`
+1.Run the tornotron automation scripts to setup local dev environment
+2. Clone this repository using the command: `https://github.com/tornotron/prepacademy`
     ```sh
-    git clone git@github.com:tornotron/echno_attendance.git
+    git clone git@github.com:tornotron/prepacademy.git
     ```
-2. Install the required dependencies by running: 
-    ```sh
-    flutter pub get
-    ```
-3. Connect your device or start an emulator.
-4. Run the app using the command: ``
-    ```sh
-    flutter run
-    ```
+3. Ensure to clone the repo to the correct directory of a new local installation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +115,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-### Demo Coming Soon!
+### This repo is only for development!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,7 +153,7 @@ Distributed under the GNU License. See `LICENSE.txt` for more information.
 
 Tornotron - [@tornotron](https://twitter.com/tornotron) - info@tornotron.com 
 
-Project Link: [https://github.com/tornotron/echno_attendance](https://github.com/tornotron/echno_attendance)
+Project Link: [https://github.com/tornotron/prepacademy](https://github.com/tornotron/prepacademy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,8 +162,6 @@ Project Link: [https://github.com/tornotron/echno_attendance](https://github.com
  | Status | Branch | Owner
  | --- | --- | ---
  |  | `development` | [Abhijith Anandakrishnan](abhijithananthan@gmail.com)
- |  | `theme-setup` | [Abin K Johny](abinkjohny2017@gmail.com)
- |  | `homepage` | [Hrishikesh Ajith](hrishikeshajith0@gmail.com)
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -185,12 +170,6 @@ Project Link: [https://github.com/tornotron/echno_attendance](https://github.com
 * Tornotron E Commerce Private Ltd. - [https://tornotron.com](https://tornotron.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot1]: assets/images/1.png
-[product-screenshot2]: assets/images/2.png
-[product-screenshot3]: assets/images/3.png
-[Flutter-Icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg
 
 
 

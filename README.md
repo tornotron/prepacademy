@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,webpack,githubactions,figma,vscode,neovim" />
+    <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,nodejs,webpack,githubactions,figma,vscode,neovim" />
   </a>
 </p>
 
